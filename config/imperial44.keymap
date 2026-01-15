@@ -23,8 +23,8 @@
         nav {
             bindings = <
 &kp GRAVE      &kp N1  &kp N2              &kp N3      &kp N4               &kp N5                             &kp N6             &kp N7          &kp N8          &kp N9           &kp N0  &kp DELETE
-&kp LG(SPACE)  &trans  &kp HOME            &kp DELETE  &kp END              &kp INSERT                         &kp RIGHT_BRACKET  &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN    &trans  &kp SPACE
-&trans         &trans  &kp LC(LEFT_ARROW)  &kp CLCK    &kp LC(RIGHT_ARROW)  &kp PRINTSCREEN  &trans    &trans  &kp LEFT_BRACKET   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
+&trans         &trans  &kp HOME            &kp DELETE  &kp END              &kp INSERT                         &kp RIGHT_BRACKET  &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN    &trans  &trans
+&kp LG(SPACE)  &trans  &kp LC(LEFT_ARROW)  &kp CLCK    &kp LC(RIGHT_ARROW)  &kp PRINTSCREEN  &trans    &trans  &kp LEFT_BRACKET   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &kp SPACE
                                                        &trans               &trans           &trans    &trans  &mo 3              &trans
             >;
 
